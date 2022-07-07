@@ -1,2 +1,3 @@
-# Primeiro_Repositorio
- Meu Primeiro repositorio Curso de Github
+# Primeiro_Repositório
+ Meu Primeiro repositório do Curso de Git e Github, 
+Esse repositório é apenas para aprendizagem
